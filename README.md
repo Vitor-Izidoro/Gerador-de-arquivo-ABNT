@@ -6,7 +6,9 @@ Arial, tamanho 12, espaçamento entrelinha 1,5, justificado na margem direita e 
 
 
 atenção, o arquivo formatador altera TODO o arquivo para as especificações a baixo, inclusive capa, fontes, etc. 
+
 configurações alteradas pelo arquivo:
+
 Fonte Arial ou Times New Roman, em tamanho 12 
  
 Alinhamento justificado 
